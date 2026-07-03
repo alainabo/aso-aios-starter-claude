@@ -9,6 +9,8 @@ The kit personalizes itself to you via a `/onboard` interview, then gives you tw
 This is the same architecture ASO Ltd. runs its own operations on — daily content automation, research loops, decision logging, dual-agent code review. We ship it free because a business that runs on an AIOS is a business that's ready for everything else we build.
 
 > Using OpenAI Codex instead? Grab the sibling kit: **[ASO AIOS Starter (Codex Edition)](https://github.com/alainabo/codex-aios-template)** — same architecture, Codex-native conventions.
+>
+> Also from ASO: **[Dual-Agent Review Kit](https://github.com/alainabo/aso-dual-agent-review)** — make two AI agents review each other's work before you ship it. Any work type, any agent pair, no babysitting.
 
 ---
 
